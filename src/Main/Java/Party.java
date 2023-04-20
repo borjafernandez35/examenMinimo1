@@ -1,2 +1,10 @@
-package PACKAGE_NAME;public class Party {
+import java.util.List;
+
+public class Party {
+
+    private String State;
+
+
+    List<User>listUser;
+
 }
